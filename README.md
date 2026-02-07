@@ -32,14 +32,12 @@ I've been working with software since 2019. I'm 16 years old and have focused on
 ![](https://github-readme-stats.vercel.app/api?username=ayparpoyraz&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ayparpoyraz&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayparpoyraz&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ayparpoyraz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayparpoyraz&limit=5&theme=date_night&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ayparpoyraz&icon=0&color=4)](https://visitcount.itsvg.in)
 
