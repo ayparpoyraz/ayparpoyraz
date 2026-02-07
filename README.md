@@ -29,8 +29,8 @@ I've been working with software since 2019. I'm 16 years old and have focused on
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayparpoyraz&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayparpoyraz&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ayparpoyraz&theme=ocean_darkk&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ayparpoyraz&theme=ocean_darkk&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayparpoyraz&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
