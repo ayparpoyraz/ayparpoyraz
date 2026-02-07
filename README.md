@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Aypar
+
+I've been working with software since 2019. I'm 16 years old and have focused on developing myself in different areas and learning new things every day. I usually develop independently. I'm working on improving my skills in cybersecurity and reverse engineering. 
 
 <!--
 **ayparpoyraz/ayparpoyraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
